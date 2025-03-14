@@ -18,6 +18,11 @@ workspace "MyApp"
     -- Set project files location
     location "Project"
 
+    -- Global Include Directories --
+    includedirs {
+
+    }
+
     -- Library Directories --
     libdirs {
 
